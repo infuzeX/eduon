@@ -879,7 +879,7 @@ textarea.form-control {
     margin-top: 100px;
 }
 .banner-area-three .enroll-wrap .courses-title {
-    background-color: var(--main-color);
+    background-color: black;
     padding: 25px 30px 20px;
 }
 .banner-area-three .enroll-wrap .courses-title span {
@@ -890,7 +890,7 @@ textarea.form-control {
     margin-bottom: 0;
 }
 .banner-area-three .enroll-wrap .courses-form {
-    border: 1px solid var(--main-color);
+    border: 1px solid black;
 }
 .banner-area-three .enroll-wrap .courses-form .form-group .form-control {
     background-color: #f8f9fb;
